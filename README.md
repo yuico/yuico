@@ -1,7 +1,7 @@
 ### I am a fancy React Developer! 👋
 
-- 🔭 I’m currently working on React, Typescript, NextJS, ExpressJS, NodeJS, Hooks, Redux, Styled-Components, Bootstrap, and so on. 
-- 🌱 I’m currently learning Python and GraphQL.
+- 🔭 Working on React, Typescript, NextJS, ExpressJS, NodeJS, Hooks, Redux, Styled-Components, Bootstrap, and so on. 
+- 🌱 Currently learning React-Testing-Library, Python, and GraphQL.
 
 - 📫 How to reach me: nokdoo00@gmail.com
 
