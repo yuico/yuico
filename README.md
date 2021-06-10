@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on React, Typescript, NextJS, ExpressJS, NodeJS, Hooks, Styled-Components, Bootstrap, and so on. 
 - 🌱 I’m currently learning Redux and GraphQL.
-- 
+
 - 📫 How to reach me: nokdoo00@gmail.com
 
 <!--
